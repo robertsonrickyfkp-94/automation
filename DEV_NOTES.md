@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Improved log message formatting
 - Improved error handling in edge cases
+
+## 2026-04-08
+- Added basic retry logic for network requests
+- Reorganised test fixtures
